@@ -22,7 +22,7 @@ import {
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
         <BrowserRouter>
         <NavBar />
           <Routes>

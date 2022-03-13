@@ -5,8 +5,8 @@ const HomePage = () => (
     <React.Fragment>
 
     
-    <div b-617jbvk8u3 class="container">
-        <main b-617jbvk8u3 role="main" class="pb-3">
+    <div class="container">
+        <main role="main" class="pb-3">
             
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>

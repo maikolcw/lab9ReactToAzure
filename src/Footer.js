@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const Footer = () => (
   <>
 <footer class="border-top footer text-muted">
-        <div b-617jbvk8u3 class="container">
+        <div class="container">
             &copy; 2022 - FizzBuzzWeb - <Link to="/privacy">Privacy</Link>
         </div>
     </footer>
