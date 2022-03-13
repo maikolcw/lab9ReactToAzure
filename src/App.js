@@ -18,8 +18,6 @@ import {
 	Route
 } from 'react-router-dom';
 
-import './index.css'
-
 
 
 function App() {
