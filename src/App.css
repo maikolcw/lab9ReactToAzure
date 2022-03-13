@@ -1,3 +1,16 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+  text-align: left;
+}
+
+.pb-3 {
+  text-align: left;
+}
+
 .App {
   text-align: center;
 }
