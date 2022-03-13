@@ -6,6 +6,7 @@ import NavBar from './NavBar';
 import NotFoundPage from './pages/NotFoundPage';
 // adds a footer
 import Footer from './Footer';
+// bootstrap stuff
 import 'bootstrap/dist/css/bootstrap.css'; 
 import 'jquery/dist/jquery.min.js';
 import 'popper.js/dist/umd/popper.min.js';
@@ -22,9 +23,9 @@ import {
 
 function App() {
   return (
-    <div className="container">
+    <div className="App">
         <BrowserRouter>
-        <NavBar />
+          <NavBar />
           <Routes>
             <Route path="/" element={<HomePage/>} exact />
             <Route path="/privacy" element={<PrivacyPage/>} exact />
